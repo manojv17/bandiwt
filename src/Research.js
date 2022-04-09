@@ -1,6 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
-import web from "../src/images/img2.png";
+
 const Research = (props) => {
 
     return (
