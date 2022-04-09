@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+
 import web from "../src/images/fotis.jpg";
 const Home = () => {
 
